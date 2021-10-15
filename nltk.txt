@@ -1,2 +1,3 @@
-nltk
-spacy
+corpus
+tokenize
+stem
